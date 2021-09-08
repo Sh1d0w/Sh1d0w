@@ -137,47 +137,47 @@ share with team members and other affected parties.
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="right" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/GraphQl-E10098?logo=graphql&logoColor=white" />
 
 - 👨‍💻 **Full stack developer**\
 📆 2021 - moment\
 📍 **7 of D** - Sofia, Bulgaria
   
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="right" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/GraphQl-E10098?logo=graphql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Symfony-000000?logo=Symfony&logoColor=white" />
 
 - 👨‍💻 **Full stack developer & Team Lead**\
 📆 2015 - 2021\
 📍 **TechHuddle** - Sofia, Bulgaria
 
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="right" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
+<img align="right" src="https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white" />
 
 - 👨‍💻 **Web developer**\
 📆 2014 - 2015\
 📍 **SafeCharge** - Sofia, Bulgaria
 
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img align="right" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
+<img align="right" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+<img align="right" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 
 - 👨‍💻 **Web developer**\
 📆 2012 - 2014\
 📍 **Mirchev Ideas** - Sofia, Bulgaria
 
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="right" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
+<img align="right" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Codeigniter-EF4223?logo=codeigniter&logoColor=white" />
 
 
 - 👨‍💻 **Web developer**\
@@ -191,84 +191,84 @@ share with team members and other affected parties.
 #### Backend
 <ul>
     <li>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
     </li>
     <li>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />    
+        <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />    
     </li>
     <li>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
     </li>
     <li>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
     </li>
     <li>
-        <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />
+        <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&logo=Apollo%20GraphQL&logoColor=white" />
     </li>
     <li>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
     </li>
     <li>
-        <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white" />
+        <img src="https://img.shields.io/badge/Symfony-000000?logo=Symfony&logoColor=white" />
     </li>
 </ul>
 
 #### Frontend
 <ul>
     <li>
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
     </li>
     <li>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
     </li>
     <li>
-        <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white" />
     </li>
     <li>
-        <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+        <img src="https://img.shields.io/badge/GraphQl-E10098?logo=graphql&logoColor=white" />
     </li>
     <li>
-        <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />
+        <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&logo=Apollo%20GraphQL&logoColor=white" />
     </li>
     <li>
-        <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+        <img src="https://img.shields.io/badge/storybook-FF4785?logo=storybook&logoColor=white" />
     </li>
     <li>
-        <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white" />
     </li>
     <li>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
     </li>
 </ul>
 
 #### Mobile
 <ul>
     <li>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
     </li>
     <li>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
     </li>
 </ul>
 
 #### DevOps
 <ul>
     <li>
-        <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" />
     </li>
     <li>
-        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
     </li>
     <li>
-        <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&logo=kubernetes&logoColor=white" />
     </li>
 </ul>
 
 **Operating Systems**
 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
+<img src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white" />
 
 </details>
 

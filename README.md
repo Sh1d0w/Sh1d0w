@@ -188,8 +188,6 @@ share with team members and other affected parties.
 
 **Programming**
 
-<br />
-
 #### Backend
 <ul>
     <li>
@@ -214,9 +212,6 @@ share with team members and other affected parties.
         <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white" />
     </li>
 </ul>
-
-<br />
-<br />
 
 #### Frontend
 <ul>
@@ -245,9 +240,6 @@ share with team members and other affected parties.
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     </li>
 </ul>
-
-<br />
-<br />
 
 #### Mobile
 <ul>
@@ -283,8 +275,6 @@ share with team members and other affected parties.
 <details>
   <summary>📦 Packages</summary>
   
-  
-
 | Name                 | A short summary                              | Install   | Downloads |
 | -------------------- | -------------------------------------------- | --------- | --------- |
 | [Clean Links](https://github.com/Sh1d0w/clean-links) | What happens in your browser, stays in your browser.  | [![Github](https://img.shields.io/badge/Safari-1.2%2B13-blue)](https://github.com/Sh1d0w/clean-links/releases/tag/v1.2%2B13) | ![Safari](https://img.shields.io/badge/downloads-529-brightgreen) |
